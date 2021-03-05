@@ -1,0 +1,13 @@
+<p>Walter: Test</p>
+<p>Ben: test</p>
+<p>Walter: Testing this again</p>
+<p>Walter: what</p>
+<p>Walter: is this even working</p>
+<p>Walter: lol</p>
+<p>Walter: doesnt change the fact that it doesnt work well with safari</p>
+<p>Ben: you're very correct</p>
+<p>Ben: test</p>
+<p>Walter: test also</p>
+<p>Walter: works well with Google</p>
+<p>Walter: I love google</p>
+<p>Ben: same</p>
